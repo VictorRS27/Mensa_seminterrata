@@ -1,0 +1,100 @@
+*{
+	padding: 0;
+  margin: 0;
+}
+
+.text {
+  font: 20px "Century Gothic";
+  text-align: justify;
+  color:#212121;
+  text-indent: 40px;
+  line-height: 2;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: justify;
+}
+
+.sub {
+  font: 40px 'Verdana', sans-serif;
+  color:#000000;
+}
+
+.div {
+    margin-right: 40px;
+    margin-left: 40px
+}
+
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+  width: 100%;
+  background: #670000;
+  color: #FFF;
+  margin-bottom: 0px;
+ }
+
+
+ blockquote {
+     padding: 0px;
+     background: #DAD8D8;
+     width: 75%;
+     margin: 0px;
+     box-sizing: border-box;
+ }
+
+.blockquote2 {
+     padding: 0px;
+     background: #670000;
+     width: 75%;
+     margin-top: 0px;
+     box-sizing: border-box;
+ }
+
+ .blockquote3 {
+		 padding: 0px;
+		 background: #D31A1A ;
+		 width: 100%;
+		 margin: 0px;
+		 box-sizing: border-box;
+ }
+
+ .blockquote-pe {
+		 padding: 0px;
+		 background: #670000 ;
+		 width: 100%;
+		 margin-bottom: 0px;
+ }
+
+
+.hr {
+  border: 10%;
+  margin-top: 0px;
+	color: #fff;
+	background-color: #fff;
+	width: 500;
+
+}
+
+.coluna1 {
+	margin-left: 1%;
+	float: left;
+	width: 130%;
+}
+
+.coluna2 {
+	float: left;
+	margin-left: 1%;
+	width: 30%;
+}
+
+.tudo {
+	display: table;
+}
+
+.btn:hover{
+background-color: #670000;
+}
+
+.selectbg {
+  background-color: #670000;
+}
